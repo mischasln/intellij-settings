@@ -1,0 +1,8 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
+  </component>
+</application>
