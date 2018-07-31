@@ -1,8 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.0.1" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="version" value="2.4.2-2018.1" />
+    <option name="accentColor" value="00bcd4" />
+    <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="userId" value="5ec67d58:164f0dfc2ff:-7fff" />
   </component>
 </application>

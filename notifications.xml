@@ -1,0 +1,28 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId=".ignore plugin update information" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="AIR Packaging" shouldLog="false" />
+    <notification groupId="Android Module Importing" shouldLog="false" />
+    <notification groupId="Android Property Files Updating" shouldLog="false" />
+    <notification groupId="Branch Context group" shouldLog="false" />
+    <notification groupId="Clean artifact" shouldLog="false" />
+    <notification groupId="Code style settings migration" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Compiler" displayType="NONE" shouldLog="false" />
+    <notification groupId="Configure Kotlin in Project" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Framework Detection" shouldLog="false" />
+    <notification groupId="Gradle sync" displayType="NONE" shouldLog="false" />
+    <notification groupId="Grape" shouldLog="false" />
+    <notification groupId="InstantRun" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="JBA Cloud Config" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="LiveEdit Enable" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="MATERIAL_THEME_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven: non-managed pom.xml" shouldLog="false" />
+    <notification groupId="OSGi" shouldLog="false" />
+    <notification groupId="OSGi Bnd Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="OSGi Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
