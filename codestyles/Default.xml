@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
+</code_scheme>
