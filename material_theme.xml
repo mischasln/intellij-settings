@@ -2,12 +2,12 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.0-pre1" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="isContrastMode" value="true" />
     <option name="accentColor" value="c6ff00" />
     <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
     <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="userId" value="-6a5ad760:167181d5660:-8000" />
+    <option name="userId" value="4f412f04:1671c05978d:-8000" />
     <option name="isWizardShown" value="true" />
   </component>
 </application>
